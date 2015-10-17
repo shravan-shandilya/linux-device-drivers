@@ -4,6 +4,12 @@
 *.obj
 *.elf
 
+# Made changes here
+*.mod.c
+*.mod.o
+*.symvers
+*.order
+
 # Precompiled Headers
 *.gch
 *.pch
